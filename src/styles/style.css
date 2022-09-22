@@ -1,0 +1,84 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+}
+
+:root {
+    background-color: lightcoral;
+}
+
+body {
+    background-color: lightpink;
+}
+
+.box1 {
+    float: left;
+    flex-grow: 2;
+    width: 100%;
+    padding: 10px;
+    min-width: 400px;
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    align-items: stretch;
+}
+
+.box2 {
+    float: left;
+    flex-grow: 2;
+    width: 100%;
+    padding: 10px;
+    min-width: 400px;
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    align-items: stretch;
+}
+
+.box3 {
+    float: left;
+    flex-grow: 2;
+    width: 100%;
+    padding: 10px;
+    min-width: 400px;
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    align-items: stretch;
+}
+
+.box4 {
+    float: left;
+    flex-grow: 2;
+    width: 100%;
+    padding: 10px;
+    min-width: 400px;
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    align-items: stretch;
+}
+
+.box5 {
+    float: left;
+    flex-grow: 2;
+    width: 100%;
+    padding: 10px;
+    min-width: 400px;
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    align-items: stretch;
+}
+
+.box6 {
+    float: left;
+    flex-grow: 2;
+    width: 100%;
+    padding: 10px;
+    min-width: 400px;
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    align-items: stretch;
+}

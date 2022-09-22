@@ -2,9 +2,9 @@ import React from 'react';
 
 function Footer() {
     return (
-        <div className='col-sm-12 col-md-6'>
-            <p>GitHub:</p>
-            <p>LinkedIn: </p>
+        <div className='fixed-bottom btn-group'>
+            <a href="https://github.com/jakewmcmillan" class="btn btn-outline-primary">  GitHub  </a>
+            <a href="https://www.linkedin.com/in/jake-mcmillan/" class="btn btn-outline-primary">    LinkedIn    </a>
         </div>
     )
 };
